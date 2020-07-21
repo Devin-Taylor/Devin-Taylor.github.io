@@ -12,7 +12,7 @@ news: false
 social: true
 ---
 
-I am currently working as a software engineer at [Nedbank CIB](https://www.nedbank.co.za/content/nedbank/desktop/gt/en/corporates/About-CIB.html) where I focus on designing and implementing algorithmic trading strategies and the associated software platform.
+I am currently working as a software engineer at [Nedbank CIB](https://www.nedbank.co.za/content/nedbank/desktop/gt/en/corporates/About-CIB.html) where I focus on designing and implementing algorithmic trading strategies and the associated software platform. I am also a part-time machine learning researcher at [Isazi (Research)](https://isazi.ai/).
 
 In 2019 I graduated with distinction from the MPhil in Advanced Computer Science at the University of Cambridge, where I was chosen as the 2018 recipient of the Nedbank Masters Scholarship. My research was conducted under the supervision of [Professor Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and focussed on *interpretable cross-modal deep learning*. The research resulted in an extended abstract being published at the ML4H workshop at NeurIPS, which focussed on [cross-modal deep learning for Parkison's disease](https://arxiv.org/abs/1909.06442). The work was kindly outlined by Pietro in an article in [The Ring Journal](https://www.cst.cam.ac.uk/sites/www.cst.cam.ac.uk/files/theringjan2020.pdf).
 
